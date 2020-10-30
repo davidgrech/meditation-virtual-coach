@@ -1,0 +1,80 @@
+*{
+    font-family: Century Gothic;
+}
+
+
+body{
+    min-width: 210px;
+}
+
+#mycontainer{
+    width:55%;
+    margin: 0 auto 0 auto;
+}
+
+.myheading{
+    padding-top: 120px;
+    padding-bottom: 30px;
+}
+
+.mylogo{
+    float: left;
+    width: 45px;
+    height: auto;
+}
+
+.myemojicontainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.myemoji{
+    height: 55px;
+}
+
+.myselect{
+    width:60px;
+}
+
+@media only screen and (max-width: 768px) {
+
+    .myemoji{
+        height: 45px;
+        padding-right: 2px;
+    }
+
+}
+
+@media only screen and (max-width: 500px) {
+
+    .myemoji{
+        height: 43px;
+        padding-right: 1px;
+    }
+
+    #mycontainer{
+        padding: 1px;
+        width:100%;
+        margin: 0 auto 0 auto;
+    }
+
+}
+
+@media only screen and (max-width: 400px) {
+
+    .myemoji{
+        height: 41px;
+        padding-right: 0px;
+    }
+
+}
+
+@media only screen and (max-width: 300px) {
+
+    .myemoji{
+        height: 32px;
+        
+    }
+
+}

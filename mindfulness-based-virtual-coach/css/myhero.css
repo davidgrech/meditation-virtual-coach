@@ -1,0 +1,157 @@
+/*Hero header code lines 2-61 reference(1)*/
+*{
+    margin:0;
+    padding: 0;
+    font-family: Century Gothic;
+}
+
+body{
+    min-width: 210px;
+}
+
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../img/htwo.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    /*Stop background hero image from scrolling reference(3)*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.mytitle{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.mytitle h1{
+    color: #fff;
+    font-size: 70px;
+}
+
+.mybutton{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mybtn{
+    border: 1px solid #fff;
+    padding: 10px 30px;
+    color: #fff;
+    text-decoration: none;
+    transition: 0.6s ease;
+}
+
+.mybtn:hover{
+    text-decoration: none;
+    background-color: #fff;
+    color: #000;
+}
+
+.mylogo{
+    float: left;
+    width: 45px;
+    height: auto;
+}
+
+@media only screen and (max-width: 770px) {
+
+    .mytitle h1{
+        color: #fff;
+        font-size: 60px;
+    }
+
+    /*load a smaller background image to reduce load time for mobile*/
+    header{
+        background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../img/hm-two-big-two.jpg");
+        height: 100vh;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: scroll;  
+    }
+
+    .mybtn{
+        padding: 9px 27px;
+    }
+    
+}
+
+@media only screen and (max-width: 650px) {
+
+    .mytitle h1{
+        font-size: 51px;
+    }
+
+    .mybtn{
+        padding: 8px 24px;
+    }
+
+}
+
+@media only screen and (max-width: 550px) {
+
+    .mytitle h1{
+        font-size: 40px;
+    }
+
+    .mybtn{
+        padding: 7px 21px;
+    }
+
+    .mybtn p{
+        font-size: 14px; 
+    }
+
+}
+
+@media only screen and (max-width: 400px) {
+
+    .mytitle h1{
+        font-size: 35px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+}
+
+
+
+@media only screen and (max-width: 270px) {
+
+    .mytitle h1{
+        font-size: 28px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .mybtn p{
+        font-size: 14px; 
+    }
+    
+}
+@media only screen and (max-width: 210px) {
+
+    .mytitle h1{
+        font-size: 25px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .mybtn p{
+        font-size: 12px;
+    }
+
+    .mybtn{
+        padding: 7px 21px;
+    }
+    
+}
+

@@ -1,0 +1,57 @@
+
+    body{
+        min-width: 360px;
+    }
+    
+    .chart {
+        width: 100%; 
+        min-height: 450px;
+        min-width: 360px;
+    }
+
+    .myinput{
+        width:135px;
+        margin-left: 40px;
+    }
+
+    .myinputone{
+        width:110px;
+        margin-left: 0px;
+    }
+
+    .myinputtwo{
+        width:110px;
+        margin-left: 0px;
+    }
+
+
+    #mytabletop{
+        width: 100%;
+        border-spacing: 0 1px;
+        border-collapse: collapse;
+    }
+
+    #mytabletop td{
+        padding: 0px;
+        border:1px solid;
+    }
+
+    .mymargin{
+        margin-left: 40px;
+    }
+
+    @media only screen and (max-width: 500px) {
+
+        .myinput{
+            margin-left: 1px;
+        }
+
+        .mymargin{
+            margin-left: 3px;
+        }
+
+
+    }
+
+
+

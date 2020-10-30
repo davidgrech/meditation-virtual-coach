@@ -1,0 +1,30 @@
+body{
+    min-width: 250px;
+}
+
+#mycontainer{
+    width:65%;
+    margin: 0 auto 0 auto;
+}
+
+.mybadge{
+    display: flex;
+    align-items: right;
+    justify-content: flex-end;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .mybadge{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #mycontainer{
+        padding: 1px;
+        width:100%;
+        margin: 0 auto 0 auto;
+    }
+
+}

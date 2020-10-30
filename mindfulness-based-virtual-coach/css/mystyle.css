@@ -1,0 +1,232 @@
+*{
+    font-family: Century Gothic;
+}
+
+#mycontainer{
+    width:55%;
+    margin: 0 auto 0 auto;
+}
+
+#mycontainerlarge{
+    width:65%;
+    margin: 0 auto 0 auto;
+}
+
+#mycontainerlarger{
+    width:55%;
+    margin: 0 auto 0 auto;
+}
+
+#mycontainerlargest{
+    width:55%;
+    margin: 0 auto 0 auto;
+}
+
+.myheading{
+    padding-top: 120px;
+    padding-bottom: 30px;
+}
+
+.mylogo{
+    float: left;
+    width: 45px;
+    height: auto;
+}
+
+.mylogosignin{
+    width: 45px;
+    height: auto;
+}
+
+.mypre{
+    font-family: Century Gothic;
+    font-size: 16px;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+.mydiv{
+    text-align: center;
+}
+
+.myemojicontainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.centercontainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.myselect{
+    width: 120px;
+}
+
+/*reference(29)*/
+.myfeature{
+    width: 100vw;
+    margin-left: calc(-50vw + 50%);
+}
+
+.myimg{
+    width:70px;
+    height:70px;
+    object-fit:cover;
+    border-radius:50%;
+}
+
+.dot{
+    background-color: white;
+    color:#5cb85c;
+    border: 3px solid #5cb85c;
+    font-size: 23px;
+}
+
+.dotadmin{
+    background-color: #333;
+    color:#ffffff;
+    border: 3px solid #ffffff;
+    font-size: 23px;
+}
+
+.mypretable{
+    font-family: Century Gothic;
+    font-size: 16px;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+.mytabletop{
+    width: 100%;
+    border-spacing: 0 1px;
+}
+
+th{
+    padding: 0px;
+    border:1px solid;
+}
+
+.mycoach{
+    position: absolute;
+    top: 24%;
+    left: 50%;
+    transform: translate(-50%,-50%);  
+}
+
+.mycoachinfo{
+    position: absolute;
+    top: 37%;
+    left: 50%;
+    transform: translate(-50%,-50%);  
+    
+}
+
+.mychatcontainer{
+    height: 240px;
+    border: 2px solid #0089ff;
+    padding:1px; 
+}
+    
+.mychatwindow{
+    height:325px;
+    overflow:auto;
+    background:#fff;
+    padding: 5px;
+}
+    
+.mychatmessage{
+    border: 1px solid #0089ff;
+    margin-right: 4px;
+}
+
+.mychatcontaineradmin{
+    height: 240px;
+    border: 2px solid green;
+    padding:1px; 
+}
+    
+.mychatmessageadmin{
+    border: 1px solid green;
+    margin-right: 4px;
+}
+    
+.mychatmessage p{
+    margin-bottom: 2px;
+    padding-left: 3px;
+}
+    
+.mychatmessage h6{
+    padding-left: 3px;
+}
+
+.mytextarea{
+    border: 2px solid #0089ff;
+}
+
+.mytextareaadmin{
+    border: 2px solid green;
+}
+
+.mycoachimage{
+    width:100px;
+    height:100px;
+    top:-170px;
+}
+
+@media only screen and (max-width: 768px) {
+
+    #mycontainerlargest{
+        width:80%;
+        margin: 0 auto 0 auto;
+    }
+
+    #mycontainerlarger{
+        width:68%;
+        margin: 0 auto 0 auto;
+    }
+
+    .mytable{
+        font-size: 14px;
+    }
+    
+    .mypretable{
+        font-size: 14px;
+    }
+
+}
+
+@media only screen and (max-width: 576px) {
+
+    #mycontainerlargest{
+        width:100%;
+        margin: 0 auto 0 auto;
+    }
+
+    .myselect{
+        width: 240px;
+        padding-bottom: 0px;
+        padding-left: 0px;
+    }
+
+    #mycontainer{
+        padding: 1px;
+        width:100%;
+        margin: 0 auto 0 auto;
+    }
+
+    #mycontainerlarge{
+        padding: 1px;
+        width:100%;
+        margin: 0 auto 0 auto;
+    }
+
+    #mycontainerlarger{
+        padding: 1px;
+        width:100%;
+        margin: 0 auto 0 auto;
+    }
+
+}

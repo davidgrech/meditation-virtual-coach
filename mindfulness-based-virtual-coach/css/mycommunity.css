@@ -1,0 +1,106 @@
+*{
+    font-family: Century Gothic;
+}
+
+body{
+    min-width: 348px;
+}
+
+#mycontainer{
+    width:60%;
+    margin: 0 auto 0 auto;
+}
+
+.myheading{
+    padding-top: 120px;
+    padding-bottom: 30px;
+}
+
+.mylogo{
+    float: left;
+    width: 45px;
+    height: auto;
+}
+
+/*center a canvas inside a div reference(21)*/
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 520px;
+}
+
+
+@media only screen and (max-width: 850px) {
+
+    #mycontainer{
+        width:75%;
+        margin: 0 auto 0 auto;
+    }
+
+}
+
+@media only screen and (max-width: 750px) {
+
+    #mycontainer{
+        width:80%;
+        margin: 0 auto 0 auto;
+    }
+
+}
+
+@media only screen and (max-width: 650px) {
+
+    #mycontainer{
+        width:85%;
+        margin: 0 auto 0 auto;
+    }
+
+}
+
+@media only screen and (max-width: 600px) {
+
+    #mycontainer{
+        padding: 1px;
+        width:100%;
+        margin: 0 auto 0 auto;
+    }
+
+}
+
+@media only screen and (max-width: 520px) {
+
+
+    #mycontainer{
+        padding: 1px;
+        width:100%;
+        margin: 0 auto 0 auto;
+    }
+
+    h4{
+        margin-left: 9%;
+    }
+
+    canvas{
+        width: 400px;
+        height: 225px;
+    }
+
+}
+
+@media only screen and (max-width: 400px) {
+
+    #mycontainer{
+        padding: 1px;
+        width:100%;
+        margin: 0 auto 0 auto;
+    }
+
+    canvas{
+        width: 350px;
+        height: 196.875px;
+    }
+
+}

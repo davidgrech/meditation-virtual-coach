@@ -1,0 +1,138 @@
+body{
+    background-color:black;
+}
+
+.mytitle{
+    font-size: 80px;
+    color: #fff;
+}
+
+#output, #output1{
+    color: #909090;
+    font-size: 39px;
+    text-align: center;
+    margin:0;
+    font-weight: lighter;
+}
+
+.container { 
+    height: 100vh;
+    position: relative;
+    padding: 0;
+}
+
+/*centralise a div, lines 24-60 reference(7) */
+.center{
+    margin: 0;
+    position: absolute;
+    top: 43%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.centeroutput{
+    margin: 0;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.centersave{
+    margin: 0;
+    position: absolute;
+    top: 73%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.centernolog{
+
+    margin: 0;
+    position: absolute;
+    top: 51%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#nolog{
+    white-space: pre;
+    color: #909090;
+}
+
+span{
+    white-space: pre;
+    font-weight: lighter;
+}
+  
+p{
+    white-space: pre;
+}
+
+.jst-hours {
+    display: none;
+}
+
+
+@media only screen and (max-width: 768px) {
+
+    .mytitle{
+        font-size: 70px;
+    }
+
+    #output, #output1{
+        font-size: 35px;
+    }
+
+}
+
+@media only screen and (max-width: 550px) {
+
+    .mytitle{
+        font-size: 60px;
+    }
+    #output, #output1 {
+        font-size: 33px;
+    }
+
+}
+
+@media only screen and (max-width: 450px) {
+
+    .mytitle{
+        font-size: 55px;
+    }
+
+    #output, #output1 {
+        font-size: 31px;
+    }
+
+}
+
+@media only screen and (max-width: 350px) {
+
+    .mytitle{
+        font-size: 47px;
+    }
+
+    #output, #output1{
+        font-size: 27px;
+    }
+
+}
+
+@media only screen and (max-width: 250px) {
+
+    .mytitle{
+        font-size: 40px;
+    }
+
+    #output, #output1{
+        font-size: 25px;
+    }
+
+}
