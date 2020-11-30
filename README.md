@@ -13,6 +13,9 @@
 
 Mindfulness-Based Stress Reduction web application with virtual coach built with PHP 7, MySQL, CSS 3, HTML 5, JavaScript and Bootstrap 4.
 
+View [Dissertation](../master/CSC7057-Dissertation-David-Grech.pdf).
+View [Source Code](../master/mindfulness-based-virtual-coach).
+
 ## Table of contents
 
 - [Client Features](#client-features)
@@ -58,19 +61,19 @@ Mindfulness-Based Stress Reduction web application with virtual coach built with
 ## Create a Meditation Time Target (Mobile)
 
 <p align="center">
-  <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/meditatetime.png" width="350">
+  <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/meditatetime.png" width="300">
 </p>
 
 ## Meditate with a Timer (Mobile)
 
 <p align="center">
-  <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/timercomplete.png" width="350">
+  <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/timercomplete.png" width="300">
 </p>
 
 ## Track Meditation (Mobile)
 
 <p align="center">
-  <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/timechart.png" width="350">
+  <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/time.png" width="300">
 </p>
 
 ## Finite State Dialogue Diagram
