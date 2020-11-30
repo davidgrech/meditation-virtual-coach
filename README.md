@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/topimage.png" width="200" height="165">
+  <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/topimage.png" width="140" height="140">
 </p>
 
 
