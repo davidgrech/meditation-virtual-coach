@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/images/topimage.png" width="200" height="165">
+  <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/topimage.png" width="200" height="165">
 </p>
 
 
@@ -25,7 +25,7 @@ Mindfulness-Based Stress Reduction web application with virtual coach built with
 
 ## Use Case Diagram
 
-![alt text](https://github.com/davidgrech/meditation-virtual-coach/blob/master/usecase.png)
+![alt text](https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/usecase.png)
 
 ## Virtual Coach Expressions
 
