@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/topimage.png" width="140" height="140">
+  <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/topimage.png" width="170" height="170">
 </p>
 
 
@@ -23,17 +23,21 @@ Mindfulness-Based Stress Reduction web application with virtual coach built with
 - [Finite State Dialogue](#finite-state-dialogue)
 
 
-## Use Case Diagram
+## Start a Meditation Program
 
-![alt text](https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/usecase.png)
+<p align="center">
+  <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/index.png">
+</p>
 
-## Virtual Coach Expressions
+## Create a Meditation Time Target
 
-
-
-## Create a Target
+<p align="center">
+  <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/meditatetime.png">
+</p>
 
 ## Track Meditation
+
+![alt text](https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/meditatetime.png)
 
 ## Track Wellbeing
 
