@@ -18,11 +18,11 @@ View [Source Code](../master/mindfulness-based-virtual-coach)
 
 - [Client Features](#client-features)
 - [Admin Features](#admin-features)
-- [Start a Meditation Program](#start-a-meditation-program)
+- [Home Page](#start-a-meditation-program)
 - [Create a Meditation Time Target](#create-a-meditation-time-target)
 - [Meditate with a Timer](#meditate-with-a-timer)
 - [Track Meditation](#track-meditation)
-- [Finite State Dialogue](#finite-state-dialogue)
+- [Finite State Dialogue Diagram](#finite-state-dialogue)
 
 ## Client Features
 
