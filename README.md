@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/meditation-graph.svg" width="180" height="180">
+  <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/meditation-graph.png" width="180" height="180">
 </p>
 
 <h3 align="center">Mindfulness Based Virtual Coach</h3>
