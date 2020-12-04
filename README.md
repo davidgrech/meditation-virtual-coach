@@ -51,25 +51,25 @@ View [Source Code](../master/mindfulness-based-virtual-coach)
 - Enable change wellbeing program length
 - Enable Restart program
 
-## Start a Meditation Program (Desktop)
+## Home Page
 
 <p align="center">
   <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/index.png">
 </p>
 
-## Create a Meditation Time Target (Mobile)
+## Create a Meditation Time Target
 
 <p align="center">
   <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/meditatetime.png" width="300">
 </p>
 
-## Meditate with a Timer (Mobile)
+## Meditate with a Timer
 
 <p align="center">
   <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/timercomplete.png" width="300">
 </p>
 
-## Track Meditation (Mobile)
+## Track Meditation
 
 <p align="center">
   <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/time.png" width="300">
