@@ -76,6 +76,8 @@ View [Source Code](../master/mindfulness-based-virtual-coach)
 
 ## Finite State Dialogue Diagram
 
+The finite state dialogue diagram shows all dialogue options for creating a meditation program.
+
 <p align="center">
   <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/finitestate.png">
 </p>
