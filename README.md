@@ -10,7 +10,7 @@
 
 ## Mindfulness Based Virtual Coach
 
-Mindfulness-Based Stress Reduction web application with a virtual coach built using: PHP 7, MySQL, CSS 3, HTML 5, JavaScript and Bootstrap 4.
+Mindfulness-Based Stress Reduction web application with a virtual coach built using PHP 7, MySQL, CSS 3, HTML 5, JavaScript and Bootstrap 4.
 
 View [Source Code](../master/mindfulness-based-virtual-coach)
 
