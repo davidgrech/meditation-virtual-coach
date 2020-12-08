@@ -14,25 +14,15 @@ Mindfulness-Based Stress Reduction web application with a virtual coach built us
 
 View [Source Code](../master/mindfulness-based-virtual-coach)
 
-## Table of contents
-
-- [Client Features](#client-features)
-- [Admin Features](#admin-features)
-- [Home Page](#start-a-meditation-program)
-- [Create a Meditation Time Target](#create-a-meditation-time-target)
-- [Meditate with a Timer](#meditate-with-a-timer)
-- [Track Meditation](#track-meditation)
-- [Finite State Dialogue Diagram](#finite-state-dialogue)
-
 ## Client Features
 
-- Start an 8-week meditation program
-- Conversations with virtual meditation agent
+- 8-week meditation program
+- Dialogue with virtual meditation coach
 - Create meditation Targets
-- Track meditation time in Google Charts
+- Track meditation time
 - View live meditations
 - Rate wellbeing
-- Track wellbeing ratings in Google Charts
+- Track wellbeing ratings
 - Create a wellbeing program
 - Guided meditations
 - Experience point and level up system
@@ -49,38 +39,6 @@ View [Source Code](../master/mindfulness-based-virtual-coach)
 - Enable change meditation time target
 - Enable change wellbeing program length
 - Enable Restart program
-
-## Home Page
-
-<p align="center">
-  <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/index.png">
-</p>
-
-## Create a Meditation Time Target
-
-<p align="center">
-  <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/meditatetime.png" width="300">
-</p>
-
-## Meditate with a Timer
-
-<p align="center">
-  <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/timercomplete.png" width="300">
-</p>
-
-## Track Meditation
-
-<p align="center">
-  <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/time.png" width="300">
-</p>
-
-## Finite State Dialogue Diagram
-
-The finite state dialogue diagram shows all dialogue options for creating a meditation program.
-
-<p align="center">
-  <img src="https://github.com/davidgrech/meditation-virtual-coach/blob/master/Images/finitestate.png">
-</p>
 
 
 
