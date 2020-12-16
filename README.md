@@ -38,7 +38,7 @@ View [Source Code](../master/mindfulness-based-virtual-coach)
 - Create interventions
 - Enable change meditation time target
 - Enable change wellbeing program length
-- Enable Restart program
+- Enable restart program
 
 
 
