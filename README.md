@@ -5,7 +5,7 @@
 <h3 align="center">Mindfulness Based Virtual Coach</h3>
 
 <p align="center">
-  MSc Software Development, Individual Project and Dissertation. Grade: Distinction, 70%.
+  MSc Software Development, Individual Project. Grade: Distinction, 70%.
 </p>
 
 ## Mindfulness Based Virtual Coach
@@ -45,7 +45,7 @@ Charts: [Google Charts](https://developers.google.com/chart)
 - Create interventions
 - Enable change meditation time target
 - Enable change wellbeing program length
-- Enable Restart program
+- Enable restart program
 
 
 
