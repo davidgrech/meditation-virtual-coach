@@ -14,6 +14,13 @@ Mindfulness-Based Stress Reduction web application with a virtual coach built us
 
 View [Source Code](../master/mindfulness-based-virtual-coach)
 
+## JavaScript libraries
+
+Countdown timer: [jQuery-Simple-Timer](https://github.com/caike/jQuery-Simple-Timer)  
+Meditation timeline: [Timeline](https://github.com/squarechip/timeline)  
+Date picker: [Flatpickr](https://github.com/flatpickr/flatpickr)
+Charts: [Google Charts](https://developers.google.com/chart)
+
 ## Client Features
 
 - 8-week meditation program
