@@ -18,8 +18,12 @@ View [Source Code](../master/mindfulness-based-virtual-coach)
 
 Countdown timer: [jQuery Simple Timer](https://github.com/caike/jQuery-Simple-Timer)  
 Meditation timeline: [Timeline](https://github.com/squarechip/timeline)  
-Date picker: [Flatpickr](https://github.com/flatpickr/flatpickr)  
-Charts: [Google Charts](https://github.com/GoogleWebComponents/google-chart)
+Date picker: [Flatpickr](https://github.com/flatpickr/flatpickr)
+
+## JavaScript APIs
+
+[Google Charts](https://github.com/GoogleWebComponents/google-chart)
+[Google Speech Synthesis](https://cloud.google.com/text-to-speech)
 
 ## Client Features
 
