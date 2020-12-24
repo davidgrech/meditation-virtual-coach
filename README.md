@@ -22,7 +22,7 @@ Date picker: [Flatpickr](https://github.com/flatpickr/flatpickr)
 
 ## JavaScript APIs
 
-[Google Charts](https://github.com/GoogleWebComponents/google-chart)
+[Google Charts](https://github.com/GoogleWebComponents/google-chart)  
 [Google Speech Synthesis](https://cloud.google.com/text-to-speech)
 
 ## Client Features
