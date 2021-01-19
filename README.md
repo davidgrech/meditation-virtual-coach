@@ -14,17 +14,6 @@ Mindfulness-Based Stress Reduction web application with a virtual coach built us
 
 View [Source Code](../master/mindfulness-based-virtual-coach)
 
-## JavaScript libraries
-
-Countdown timer: [jQuery Simple Timer](https://github.com/caike/jQuery-Simple-Timer)  
-Meditation timeline: [Timeline](https://github.com/squarechip/timeline)  
-Date picker: [Flatpickr](https://github.com/flatpickr/flatpickr)
-
-## JavaScript APIs
-
-[Google Charts](https://github.com/GoogleWebComponents/google-chart)  
-[Google Speech Synthesis](https://cloud.google.com/text-to-speech)
-
 ## Client Features
 
 - 8-week meditation program
@@ -51,6 +40,15 @@ Date picker: [Flatpickr](https://github.com/flatpickr/flatpickr)
 - Enable change wellbeing program length
 - Enable restart program
 
+### JavaScript libraries
 
+Countdown timer: [jQuery Simple Timer](https://github.com/caike/jQuery-Simple-Timer)  
+Meditation timeline: [Timeline](https://github.com/squarechip/timeline)  
+Date picker: [Flatpickr](https://github.com/flatpickr/flatpickr)
+
+### JavaScript APIs
+
+[Google Charts](https://github.com/GoogleWebComponents/google-chart)  
+[Google Speech Synthesis](https://cloud.google.com/text-to-speech)
 
 
